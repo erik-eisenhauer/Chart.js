@@ -5,6 +5,16 @@
 
 *Simple HTML5 Charts using the canvas element* [chartjs.org](http://www.chartjs.org)
 
+## Introduction
+
+**Six chart types**
+
+Visualize your data in 6 different ways. Each of them animated, with a load of customisation options and interactivity extensions.
+
+**HTML5 based**
+
+Chart.js uses the HTML5 canvas element. It's supported in all modern browsers, and polyfills support for IE7/8.
+
 ## Documentation
 
 You can find documentation at [chartjs.org/docs](http://www.chartjs.org/docs/). The markdown files that build the site are available under `/docs`. Please note - in some of the json examples of configuration you might notice some liquid tags - this is just for the generating the site html, please disregard.
